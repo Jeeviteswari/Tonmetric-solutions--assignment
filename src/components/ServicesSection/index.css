@@ -1,0 +1,42 @@
+.services-container {
+  min-height: 400px;
+  width: 350px;
+  border: 2px solid lightgray;
+  border-radius: 8px;
+  background-color: lightgray;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.service-heading {
+  color: black;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.service-para {
+  color: black;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.images-container {
+  display: flex;
+  flex-direction: row;
+}
+.single-image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.single-image {
+  height: 100px;
+  width: 100px;
+}
+.image-name {
+  color: grey;
+  font-size: 12px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  text-align: center;
+}

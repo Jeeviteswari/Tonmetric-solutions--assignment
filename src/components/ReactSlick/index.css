@@ -1,0 +1,12 @@
+.slider-container {
+  background-color: lightgray;
+  padding: 20px;
+  height: 150px;
+  width: 350px;
+}
+.logo-container {
+  background-color: grey;
+  color: black;
+  font-size: 15px;
+  font-family: 'Roboto';
+}

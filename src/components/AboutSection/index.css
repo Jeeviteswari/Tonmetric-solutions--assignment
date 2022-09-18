@@ -1,0 +1,21 @@
+.about-container {
+  height: 350px;
+  width: 350px;
+  border: 2px solid lightgray;
+  border-radius: 8px;
+  background-color: dodgerblue;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.about-heading {
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.about-para {
+  color: lightgray;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}

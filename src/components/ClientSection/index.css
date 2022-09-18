@@ -1,0 +1,27 @@
+.clients-container {
+  min-height: 200px;
+  width: 350px;
+  border: 2px solid lightgray;
+  border-radius: 8px;
+  background-color: lightgray;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.client-heading {
+  color: black;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.client-para {
+  color: black;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.logos-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}

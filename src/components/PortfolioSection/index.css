@@ -1,0 +1,33 @@
+.portfolio-container {
+  min-height: 400px;
+  width: 350px;
+  border: 2px solid lightgray;
+  border-radius: 8px;
+  background-color: lightgray;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.portfolio-heading {
+  color: black;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.portfolio-para {
+  color: black;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.images-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.single-loreal-image {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+}

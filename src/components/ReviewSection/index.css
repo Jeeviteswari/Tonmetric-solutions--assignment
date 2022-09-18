@@ -1,0 +1,62 @@
+.reviews-container {
+  min-height: 400px;
+  width: 350px;
+  border: 2px solid lightgray;
+  border-radius: 8px;
+  background-color: lightgray;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.review-heading {
+  color: black;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.stars-button-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.stars-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.reviews-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.desc-rtg-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.description1 {
+  color: gray;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.description2 {
+  color: blue;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.teddy-bear {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
